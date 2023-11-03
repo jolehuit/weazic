@@ -7,10 +7,11 @@ const config = {
 	// for more information about preprocessors
 	preprocess: [vitePreprocess({})],
 
-		kit: {
-			adapter: adapter({
-				// see the 'Deployment configuration' section below
-			})
-		}
-	};
+	kit: {
+		adapter: adapter({
+			maxDuration: 60,
+		}),
+	},
+};
+
 export default config;
