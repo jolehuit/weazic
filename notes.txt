@@ -1,0 +1,3 @@
+Inverser process :
+Lorsque qqun select une ville, convertir en longitude latitude et chercner meteo avec api
+

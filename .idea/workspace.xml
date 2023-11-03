@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8591164a-13f4-45c2-a81d-373de63ed8de" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="+EmojiLetterCap.svelte" />
+        <option value="+page.server.svelte" />
+        <option value="+db.ts" />
+        <option value="ok.svel" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2XOL8Y2h5k3bCqdmNzaLQxkK0YF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jsx.switch.disabled&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/max/IdeaProjects/weazic/src/routes/coords&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/max/IdeaProjects/weazic/node_modules/prettier&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/max/IdeaProjects/weazic/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/routes/coords" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/lib" />
+      <recent name="$PROJECT_DIR$/src/routes/server" />
+      <recent name="$PROJECT_DIR$/src/routes" />
+      <recent name="$PROJECT_DIR$/src/assets" />
+      <recent name="$PROJECT_DIR$/static/animations" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8591164a-13f4-45c2-a81d-373de63ed8de" name="Changes" comment="" />
+      <created>1698495021070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698495021070</updated>
+      <workItem from="1698495022415" duration="1718000" />
+      <workItem from="1698567448292" duration="111000" />
+      <workItem from="1698567567373" duration="54000" />
+      <workItem from="1698567629337" duration="36000" />
+      <workItem from="1698567666774" duration="354000" />
+      <workItem from="1698570461072" duration="28000" />
+      <workItem from="1698600336624" duration="2383000" />
+      <workItem from="1698602733132" duration="681000" />
+      <workItem from="1698603425026" duration="15778000" />
+      <workItem from="1698620987545" duration="1890000" />
+      <workItem from="1698664413835" duration="2627000" />
+      <workItem from="1698667050998" duration="218000" />
+      <workItem from="1698667277134" duration="635000" />
+      <workItem from="1698667921216" duration="1493000" />
+      <workItem from="1698671585982" duration="14290000" />
+      <workItem from="1698699222578" duration="322000" />
+      <workItem from="1698699555844" duration="29000" />
+      <workItem from="1698699595575" duration="887000" />
+      <workItem from="1698704190561" duration="513000" />
+      <workItem from="1698704713754" duration="8873000" />
+      <workItem from="1698786874494" duration="505000" />
+      <workItem from="1698831946957" duration="617000" />
+      <workItem from="1698832574888" duration="2283000" />
+      <workItem from="1698868307721" duration="59000" />
+      <workItem from="1698918556809" duration="2578000" />
+      <workItem from="1698921565872" duration="542000" />
+      <workItem from="1698922291197" duration="328000" />
+      <workItem from="1698922623221" duration="1585000" />
+      <workItem from="1698928353687" duration="162000" />
+      <workItem from="1698928524737" duration="1155000" />
+      <workItem from="1698929695606" duration="8692000" />
+      <workItem from="1698946899128" duration="870000" />
+      <workItem from="1698947776603" duration="5065000" />
+      <workItem from="1698999678852" duration="9395000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
