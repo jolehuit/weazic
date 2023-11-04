@@ -167,7 +167,7 @@ async function getWeatherFromCity() {
                 placeholder="Select your city"
                 use:popup={popupSettings}
         />
-      <div transition:fly={{ delay: 250, duration: 600, y: 50, opacity: 0, easing: quintInOut }} class="overflow-scroll h-1/5 md:w-1/4"data-popup="popupAutocomplete">
+      <div transition:fly={{ delay: 250, duration: 600, y: 50, opacity: 0, easing: quintInOut }} class="overflow-scroll h-16 md:w-1/4"data-popup="popupAutocomplete">
             <Autocomplete
                     bind:input={inputText}
                     options={citiesOptions}

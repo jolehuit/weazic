@@ -53,7 +53,7 @@ https://open.spotify.com/playlist/0UxrowkNrNrtJg3ACKLfM1?si=6bb5eb34f4e04314
 https://open.spotify.com/playlist/0hCVXfND5xuQtPoQDTCRkQ?si=508976493a2945ca)
 
 You get the idea.
-If the user doesn't indicate any musical style, and only in this case, you're free to choose what you like with the other criteria!
+
 
 You answer by giving the URLs of the playlists in a comma-separated list.
 
