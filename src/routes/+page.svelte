@@ -167,7 +167,7 @@ async function getWeatherFromCity() {
                 placeholder="Select your city"
                 use:popup={popupSettings}
         />
-      <div transition:fly={{ delay: 250, duration: 600, y: 50, opacity: 0, easing: quintInOut }} class="overflow-scroll h-16 md:w-1/4"data-popup="popupAutocomplete">
+      <div transition:fly={{ delay: 250, duration: 600, y: 50, opacity: 0, easing: quintInOut }} class="overflow-scroll md:h-1/5 h-16 md:w-1/4"data-popup="popupAutocomplete">
             <Autocomplete
                     bind:input={inputText}
                     options={citiesOptions}
@@ -177,7 +177,7 @@ async function getWeatherFromCity() {
 
       {/if}
       {#if showNextButton}
-        <button on:click={()=> {goToStyles=true;city=inputText;console.log("OK" + city); getWeatherFromCity()}} transition:fade={{ delay: 1000, duration: 300 }} class="mt-20 btn btn-l variant-filled grid">Next</button>
+        <button on:click={()=> {goToStyles=true;city=inputText;console.log("OK" + city); getWeatherFromCity()}} transition:fade={{ delay: 1000, duration: 300 }} class="mt-10 btn btn-l variant-filled grid">Next</button>
 
       {/if}
 
