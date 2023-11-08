@@ -17,12 +17,17 @@ const config = {
 		)
 	],
 	theme: {
-		extend: {},
+		extend: {
+				screens: {
+					'sm': '376px',
+				},
+		},
 	},
 	plugins: [
 		// 4. Append the Skeleton plugin (after other plugins)
 		skeleton({
 			themes: { preset: [ "crimson" ] }
+
 		})
 
 	]

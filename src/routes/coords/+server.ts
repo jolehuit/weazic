@@ -10,12 +10,17 @@ export const POST:RequestHandler = async ({ request }) => {
     console.log("url : " + url)
     const res = await fetch(url);
     const data = await res.json();
-    console.log(data);
-    const latitude = data[0].lat;
-    const longitude = data[0].lon;
-    console.log("coords found : " + latitude + longitude)
+    if(data) {
+      console.log(data);
+      const latitude = data[0].lat;
+      const longitude = data[0].lon;
+      console.log("coords found : " + latitude + longitude)
       return new Response(JSON.stringify(
-    {latitude,longitude}));
+        { latitude, longitude }));
+    }
+    else {
+      return new Error("Ville incorrecte.");
+    }
   } catch (error) {
     throw new Error("Aucun résultat de géocodage trouvé.");
   }

@@ -44,7 +44,6 @@
 		"@capacitor/ios": "^5.5.1",
 		"@floating-ui/dom": "^1.5.3",
 		"@lottiefiles/svelte-lottie-player": "^0.3.0",
-		"cities.json": "^1.1.25",
 		"langchain": "^0.0.178",
 		"openai": "^4.14.2",
 		"toppop-cities": "^1.0.1"

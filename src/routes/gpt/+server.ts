@@ -34,6 +34,7 @@ Indie style should result in Indie playlists.
 And this, whatever the emotion or the weather. You get the idea.
 
 If the user selects several musical styles, you'll offer playlists that combine these styles.
+If the user doesn't select a style, the choice is yours.
 
 I'll give you a few examples, and you'll have to rely on them and nothing else: 
 I'm a user who has chosen the style jazz, the mood sad and at whose house it's raining, so you'll suggest sad jazz playlists (examples: https://open.spotify.com/playlist/37i9dQZF1DX0aiWQDFamDa?si=18c409ac51a44a1f).
@@ -74,7 +75,7 @@ You should ONLY return a comma-separated list of URLs, and nothing more.`
 
     const model = new ChatOpenAI({
       openAIApiKey: OPENAI_KEY,
-      modelName: "gpt-4",
+      modelName: "gpt-4-1106-preview",
       temperature: 0.5
     });
     const parser = new CommaSeparatedListOutputParser();
