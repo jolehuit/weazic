@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8591164a-13f4-45c2-a81d-373de63ed8de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lib/errors/error.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/db/cities.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/platforms/Napster.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/platforms/apple-music.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/platforms/deezer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/platforms/soundcloud.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/platforms/tidal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/+layout.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/+layout.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/+page.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/+page.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/coords/+server.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/coords/+server.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/gpt/+server.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/gpt/+server.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.ts" afterDir="false" />
-    </list>
+    <list default="true" id="8591164a-13f4-45c2-a81d-373de63ed8de" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,7 +115,7 @@
       <workItem from="1699285240982" duration="6000" />
       <workItem from="1699285448463" duration="3530000" />
       <workItem from="1699377972631" duration="6535000" />
-      <workItem from="1699461707078" duration="5388000" />
+      <workItem from="1699461707078" duration="5712000" />
     </task>
     <servers />
   </component>
