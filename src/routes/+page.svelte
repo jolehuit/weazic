@@ -216,7 +216,7 @@ async function getWeatherFromCity() {
   {/if}
 
 {#if showPLaylists && playlistsListEmbed.length>1}
-  <div class="md:grid-cols-1 grid grid-cols-[auto_1fr_auto] gap-6 items-center mt-3 sm:mt-20 md:mt-10">
+  <div class="md:grid-cols-1 grid grid-cols-[auto_1fr_auto] gap-6 items-center mt-3 sm:mt-10 md:mt-10">
     <button type="button" class="md:hidden btn-icon variant-filled ml-2" on:click={carouselLeft}>⬅️</button>
     <!-- Button: Left -->
     <div bind:this={elemCarousel} class="snap-x snap-mandatory scroll-smooth flex overflow-x-auto md:flex-col md:items-center">
