@@ -134,7 +134,7 @@ async function getWeatherFromCity() {
 
 {#if !moodToggle}
 
-  <h1 transition:fly={{ delay: 50, duration: 550, y: 50, opacity: 0, easing: quintInOut }} class="flex justify-center mt-52 text-4xl font-bold">Select your mood</h1>
+  <h1 transition:fly={{ delay: 50, duration: 550, y: 50, opacity: 0, easing: quintInOut }} class="flex justify-center mt-42 text-4xl font-bold">Select your mood</h1>
    <div transition:fly={{ delay: 50, duration: 550, y: 50, opacity: 0, easing: quintInOut }} class="flex justify-center m-auto mt-6">
     <button on:click={()=>{moodToggle=true; mood="sad"}} type="button" class="btn h-20 w-20 rounded-full variant-filled text-5xl m-2">😭</button>
     <button  on:click={()=>{moodToggle=true; mood="neutral"}} type="button" class="btn h-20 w-20 rounded-full variant-filled text-5xl m-2">😐</button>
