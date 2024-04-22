@@ -28,7 +28,7 @@
 				</a>
 				<a
 					class="btn btn-sm variant-ghost-surface"
-					href="https://github.com/whiteshrt"
+					href="https://github.com/jolehuit"
 					target="_blank"
 					rel="noreferrer"
 				>
