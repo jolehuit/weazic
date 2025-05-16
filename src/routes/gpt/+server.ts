@@ -75,7 +75,7 @@ You should ONLY return a comma-separated list of URLs, and nothing more.`
 
     const model = new ChatOpenAI({
       openAIApiKey: OPENAI_KEY,
-      modelName: "gpt-4-1106-preview",
+      modelName: "gpt-4o",
       temperature: 0.5
     });
     const parser = new CommaSeparatedListOutputParser();
